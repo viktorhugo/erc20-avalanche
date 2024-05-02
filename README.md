@@ -53,6 +53,8 @@ contract MyCrypto is ERC20 {
 
 - (100 * 10 ** ERC20.decimals()): supply amount
 
+<img src='./assets/image9.png'  >
+
 7. Deploy ERC20 Token on Avalanche
 
 - compile the file
